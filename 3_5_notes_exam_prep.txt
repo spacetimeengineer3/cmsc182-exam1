@@ -1,0 +1,58 @@
+topics:
+
+No c++ language features, but will be expected to write c++ code
+
+Objected-Oriented Programming (philisophy) (lot of short answers, mutiple choice, at bottom short basic class)
+    Pillars
+    -inheritance
+        -parent class
+        -child class
+        -abstract classes
+        -
+    -polymorphism
+        -dissimmalr things as a common super type
+    -encapsulation
+        -designing nice good pieces of code that are good, small and consise 
+        -access modifiers, interface (da.something) 
+
+    implementing classes
+        -constructors
+            -means by which we initalize an object (CLASSES VS OBJECT)
+        -member variables
+        -member functions
+        -destructor
+            clean things up so we don't get memory leaks
+        -access modifiers
+            -public private and protected (protected will not be on the exam)
+Dynamic Memory Managment (need to understand other things)
+    -new
+        for single items
+        for arrays
+        pointers
+    -delete
+        for single items
+        for arrays
+    -notion of container classes
+        -classes that hold data
+        -usually templated (TEMPLATE QUESTION)
+    -Dyanamic Arrays
+        -write one member function
+        -will be asking about a pointer
+        -PROBABLY GROW FUNCTION
+
+    -Linked Lists
+        -code analysis (respond to his questions)
+
+
+Will ask to design a class (no code)
+
+Given a simple class, code it (don't forget semicolon to cap class)
+
+implement one of the codes from the Dynamic Array assignment (will probably be reverse, though hinted at grow)
+
+Given code for a linked list, tell what is going on
+
+
+
+delete [] is an array
+
